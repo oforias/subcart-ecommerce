@@ -42,7 +42,13 @@ $customer_name = isset($_SESSION['customer_name']) ? $_SESSION['customer_name'] 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shopping Cart - Sweetgreen</title>
+    <title>Shopping Cart - SubCart</title>
+    
+    <!-- 🔥 Sexy Favicon -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <meta name="theme-color" content="#667eea">
     
     <!-- Sweetgreen Design System CSS -->
     <link rel="stylesheet" href="css/sweetgreen-style.css">

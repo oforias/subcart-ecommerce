@@ -1,27 +1,21 @@
 <?php
-//Database credentials
-// Settings/db_cred.php
-
-// define('DB_HOST', 'localhost');
-// define('DB_USER', 'root');
-// define('DB_PASS', '');
-// define('DB_NAME', 'dbforlab');
-
+// Database credentials for InfinityFree hosting
+// SubCart E-commerce - Production Configuration
 
 if (!defined("SERVER")) {
-    define("SERVER", "localhost");
+    define("SERVER", "sql100.infinityfree.com");
 }
 
 if (!defined("USERNAME")) {
-    define("USERNAME", "root");
+    define("USERNAME", "if0_40747414");
 }
 
 if (!defined("PASSWD")) {
-    define("PASSWD", "");
+    // Use your vPanel password here
+    define("PASSWD", "YOUR_VPANEL_PASSWORD");
 }
 
 if (!defined("DATABASE")) {
-    // Use the database name from the provided SQL dump
-    define("DATABASE", "shoppn");
+    define("DATABASE", "if0_40747414_shoppn");
 }
 ?>
