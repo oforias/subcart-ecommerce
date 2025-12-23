@@ -18,7 +18,7 @@ A full-featured e-commerce web application built with PHP, MySQL, and modern web
 
 ### 👑 Admin Management
 - **Elegant Admin Panel** - Professional dashboard with sophisticated design
-- **Product Management** - Create, edit, delete products with image uploads
+- **Product Management** - Create, edit, and delete products with image uploads
 - **Category & Brand Management** - Organize inventory efficiently
 - **User Management** - View and manage customer accounts
 - **Order Management** - Process and track customer orders
@@ -115,15 +115,11 @@ A full-featured e-commerce web application built with PHP, MySQL, and modern web
 - **Features**: Full system management, elegant admin panel
 
 ### Sample Customers
-- `alan.k.ofori@gmail.com`
-- `mmalebna@gmail.com`
 - `test1@example.com`
 - `test2@example.com`
 - `demo@test.com`
 
-## 🌟 Screenshots
 
-*Professional e-commerce platform with modern design and full functionality*
 
 ## 🚀 Deployment
 
@@ -134,7 +130,7 @@ A full-featured e-commerce web application built with PHP, MySQL, and modern web
 - Professional-grade security
 
 ### Development
-- Clean codebase for easy customization
+- Clean codebase for easy customisation
 - Modular architecture for feature additions
 - Comprehensive error handling
 - Developer-friendly structure
@@ -149,10 +145,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developer
 
-**Samuel Amoako Oforias**
+**Alan Kofi Safo Ofori**
 - GitHub: [@oforias](https://github.com/oforias)
-- Portfolio: Professional PHP/MySQL Developer
-
+- 
 ---
 
 ### 🎯 Perfect For
@@ -161,4 +156,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Base Template** - Extend for real e-commerce needs
 - **Academic Projects** - Professional-quality coursework
 
-**Built with ❤️ using PHP, MySQL, and modern web technologies**
+**Built using PHP, MySQL, and modern web technologies**
