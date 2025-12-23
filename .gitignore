@@ -1,0 +1,68 @@
+# All ignored files consolidated in one folder
+.ignored-files/
+
+# Database Files (local development only)
+db/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment Files
+.env
+.env.local
+.env.production
+
+# Uploaded Files (keep structure but ignore content)
+uploads/*
+!uploads/.htaccess
+!uploads/README.md
+
+# Cache and Temporary Files
+cache/
+temp/
+tmp/
+
+# Configuration Files (if they contain sensitive data)
+config.local.php
+settings.local.php
+
+# Build Files
+dist/
+build/
+
+# Package Files
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+logs/
+*.log
+
+# Runtime Data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage Directory Used by Tools Like Istanbul
+coverage/
+
+# PHPUnit
+phpunit.xml.local
+.phpunit.result.cache
+
+# Backup Files
+*.bak
+*.backup
+*~
